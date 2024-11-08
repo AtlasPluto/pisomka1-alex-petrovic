@@ -6,7 +6,7 @@ import Menu from "@/components/Menu";
 import AuthProvider from "../components/AuthProvider";
 
 export const metadata: Metadata = {
-  title: "SnapZoška",
+  title: "Pisomka1-alex-petrovic",
   description: "Created by me A. R. Petrovic",
 };
 
